@@ -1,13 +1,12 @@
-# SoftwareSkillsModules
-Professional skills workshop modules for software students 
+# Essential Computer Science
 
-- [Professional Communication](communication.md)
-- [Professional Reflections](professionalreflections.md)
-- [User Experience](ux.md)
-- [Working in Teams](workinginteams.md)
-- [Minimum Viable Product: Making magic happen with clients](minimumviableproduct.md)
-- [Group workflows with GitHub](groupworkflows.md)
-- [Software for Good. Professional Ethics and the ACS code of conduct](professionalethics.md)
-- [Designing for Security: Threat Analysis](cybersecurity.md)
-- [Pitch your software product](productpitch.md)
+Essential skills workshop modules for computer science students 
+
+* [Group workflows with GitHub](docs/groupworkflows.md)
+* [Professional Ethics and the ACS code of conduct](docs/professionalethics.md)
+* [Designing for Security: Threat Analysis](docs/cybersecurity.md)
+* [Pitch your software product](docs/productpitch.md)
+* [Professional Communication](docs/communication.md)
+* [Professional Reflections](docs/professionalreflections.md)
+* [Working in Teams](docs/workinginteams.md)
 
