@@ -8,5 +8,5 @@ Essential skills workshop modules for computer science students
 * [Pitch your software product](docs/productpitch.md)
 * [Professional Communication](docs/communication.md)
 * [Professional Reflections](docs/professionalreflections.md)
-* [Working in Teams](docs/workinginteams.md)
+
 
